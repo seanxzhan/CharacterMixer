@@ -1,4 +1,12 @@
-## CharacterMixer: Rig-Aware Interpolation of 3D Characters
+## CharacterMixer: Rig-Aware Interpolation of 3D Characters (Eurographics 2024)
+
+This repository contains the implementation of our paper: 
+
+**[CharacterMixer: Rig-Aware Interpolation of 3D Characters](https://seanxzhan.github.io/projects/CharacterMixer.html)**
+<br>
+[Xiao Zhan](https://seanzhan.com/),
+[Rao Fu](https://freddierao.github.io/),
+[Daniel Ritchie](https://dritchie.github.io/)
 
 ![Teaser](teaser.png)
 
